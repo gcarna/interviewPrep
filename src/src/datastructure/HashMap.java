@@ -1,4 +1,4 @@
-package src.data_structure;
+package src.datastructure;
 
 import javafx.util.Pair;
 

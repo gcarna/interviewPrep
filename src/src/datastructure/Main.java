@@ -1,4 +1,4 @@
-package src.data_structure;
+package src.datastructure;
 
 public class Main {
     public static void main(String[] args){

@@ -58,13 +58,13 @@ public class Day4 {
         String pid;
         boolean isValidPassport = true;
             try {
-                byr = Integer.parseInt(passport.get("byr").toString());
-                iyr = Integer.parseInt(passport.get("iyr").toString());
-                eyr = Integer.parseInt(passport.get("eyr").toString());
-                hgt = passport.get("hgt").toString();
-                hcl = passport.get("hcl").toString();
-                ecl = passport.get("ecl").toString();
-                pid = passport.get("pid").toString();
+                byr = Integer.parseInt(passport.get("byr"));
+                iyr = Integer.parseInt(passport.get("iyr"));
+                eyr = Integer.parseInt(passport.get("eyr"));
+                hgt = passport.get("hgt");
+                hcl = passport.get("hcl");
+                ecl = passport.get("ecl");
+                pid = passport.get("pid");
             } catch (Exception e) {
                 return false;
             }

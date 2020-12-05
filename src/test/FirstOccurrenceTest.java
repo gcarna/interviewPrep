@@ -2,7 +2,7 @@ package test;
 
 import org.junit.jupiter.api.Test;
 
-import static src.master_the_interview.GoogleQuestion.firstOccurrence;
+import static src.mastertheinterview.GoogleQuestion.firstOccurrence;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class FirstOccurrenceTest {

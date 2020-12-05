@@ -1,4 +1,4 @@
-package src.coding_problem;
+package src.codingproblems;
 
 public class FindMedianSortedArrays {
 

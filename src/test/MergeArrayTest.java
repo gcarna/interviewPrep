@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
-import static src.master_the_interview.mergeArray.mergeArray;
+import static src.mastertheinterview.mergeArray.mergeArray;
 
 public class MergeArrayTest {
     @Test

@@ -1,4 +1,4 @@
-package src.master_the_interview;
+package src.mastertheinterview;
 
 import java.util.HashSet;
 

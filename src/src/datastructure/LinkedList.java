@@ -1,6 +1,4 @@
-package src.data_structure;
-
-import java.util.List;
+package src.datastructure;
 
 public class LinkedList {
     Node head = null;
