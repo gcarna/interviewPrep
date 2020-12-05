@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87d89d42-7424-445f-ab28-20cfb9281ab0" name="Default" comment="" />
+    <list default="true" id="87d89d42-7424-445f-ab28-20cfb9281ab0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/adventofcode/Day4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/adventofcode/Day4.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,11 +18,8 @@
       <file leaf-file-name="Day4.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/src/adventofcode/Day4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="95" column="32" selection-start-line="95" selection-start-column="32" selection-end-line="95" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-183">
+              <caret line="50" column="26" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -37,6 +37,14 @@
     <dirStrings>
       <dir>$PROJECT_DIR$/src/main</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -104,49 +112,44 @@
     <option name="width" value="1280" />
     <option name="height" value="735" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="CrackingTheCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CrackingTheCode" type="462c0819:PsiDirectoryNode" />
+              <item name="InterviewPreparation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InterviewPreparation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CrackingTheCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CrackingTheCode" type="462c0819:PsiDirectoryNode" />
+              <item name="InterviewPreparation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InterviewPreparation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CrackingTheCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CrackingTheCode" type="462c0819:PsiDirectoryNode" />
+              <item name="InterviewPreparation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InterviewPreparation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CrackingTheCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CrackingTheCode" type="462c0819:PsiDirectoryNode" />
+              <item name="InterviewPreparation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InterviewPreparation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="adventofcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CrackingTheCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CrackingTheCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -344,8 +347,16 @@
       <workItem from="1606926742243" duration="21144000" />
       <workItem from="1607026153763" duration="9034000" />
       <workItem from="1607096162289" duration="17176000" />
-      <workItem from="1607166318266" duration="263000" />
+      <workItem from="1607166318266" duration="2589000" />
     </task>
+    <task id="LOCAL-00001" summary="added .gitignore">
+      <created>1607167772876</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607167772876</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -381,10 +392,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110044000" />
+    <option name="totallyTimeSpent" value="112370000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="735" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -396,8 +408,8 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32956383" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.42946708" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3275862" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.5" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49931034" weight="0.29321486" />
@@ -421,6 +433,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="added .gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -895,11 +911,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/src/adventofcode/Day4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="95" column="32" selection-start-line="95" selection-start-column="32" selection-end-line="95" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="-183">
+          <caret line="50" column="26" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
         </state>
       </provider>
     </entry>
