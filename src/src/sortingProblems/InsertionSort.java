@@ -1,4 +1,4 @@
-package src.SortingProblems;
+package src.sortingProblems;
 
 public class InsertionSort {
     private static int[] sort(int[] array, int gap) {
