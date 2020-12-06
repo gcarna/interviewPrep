@@ -1,7 +1,7 @@
 package test;
 
 import org.junit.jupiter.api.Test;
-import src.sortingProblems.SelectionSort;
+import src.sortingproblems.SelectionSort;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 

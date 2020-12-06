@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87d89d42-7424-445f-ab28-20cfb9281ab0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/InterviewPreparation/src/adventofcode/Day4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InterviewPreparation/src/adventofcode/Day4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/adventofcode/Day4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/adventofcode/Day4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/coding_problem/FindMedianSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/codingproblems/FindMedianSortedArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/data_structure/HashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/datastructure/HashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/data_structure/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/datastructure/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/data_structure/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/datastructure/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/data_structure/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/datastructure/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/master_the_interview/GoogleQuestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/mastertheinterview/GoogleQuestion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/master_the_interview/mergeArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/mastertheinterview/mergeArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/FirstOccurrenceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/FirstOccurrenceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/MergeArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/MergeArrayTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="87d89d42-7424-445f-ab28-20cfb9281ab0" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,8 +15,8 @@
       <file leaf-file-name="Day4.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/src/adventofcode/Day4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="78" column="17" lean-forward="true" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
+            <state relative-caret-position="387">
+              <caret line="73" column="28" selection-start-line="73" selection-start-column="28" selection-end-line="73" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -349,7 +337,7 @@
       <workItem from="1606926742243" duration="21144000" />
       <workItem from="1607026153763" duration="9034000" />
       <workItem from="1607096162289" duration="17176000" />
-      <workItem from="1607166318266" duration="2860000" />
+      <workItem from="1607166318266" duration="3061000" />
     </task>
     <task id="LOCAL-00001" summary="added .gitignore">
       <created>1607167772876</created>
@@ -365,7 +353,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607169039329</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added part two">
+      <created>1607169314069</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607169314069</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added part two">
+      <created>1607169356717</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607169356717</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -401,7 +403,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112641000" />
+    <option name="totallyTimeSpent" value="112842000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="735" extended-state="6" />
@@ -580,7 +582,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/src/SortingProblems/BubbleSort.java">
+    <entry file="file://$PROJECT_DIR$/src/src/sortingProblems/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
@@ -594,7 +596,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/src/SortingProblems/BubbleSort.java">
+    <entry file="file://$PROJECT_DIR$/src/src/sortingProblems/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
@@ -608,7 +610,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/src/SortingProblems/BubbleSort.java">
+    <entry file="file://$PROJECT_DIR$/src/src/sortingProblems/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
@@ -622,7 +624,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/src/SortingProblems/BubbleSort.java">
+    <entry file="file://$PROJECT_DIR$/src/src/sortingProblems/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
@@ -636,7 +638,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/src/SortingProblems/BubbleSort.java">
+    <entry file="file://$PROJECT_DIR$/src/src/sortingProblems/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
@@ -838,7 +840,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/src/SortingProblems/SelectionSort.java">
+    <entry file="file://$PROJECT_DIR$/src/src/sortingProblems/SelectionSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
@@ -873,14 +875,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/src/SortingProblems/BubbleSort.java">
+    <entry file="file://$PROJECT_DIR$/src/src/sortingProblems/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" selection-start-line="4" selection-end-line="19" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/src/SortingProblems/InsertionSort.java">
+    <entry file="file://$PROJECT_DIR$/src/src/sortingProblems/InsertionSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
@@ -921,8 +923,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/src/adventofcode/Day4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="78" column="17" lean-forward="true" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
+        <state relative-caret-position="387">
+          <caret line="73" column="28" selection-start-line="73" selection-start-column="28" selection-end-line="73" selection-end-column="28" />
         </state>
       </provider>
     </entry>
