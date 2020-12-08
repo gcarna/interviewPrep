@@ -1,4 +1,4 @@
-package src.sortingproblems;
+package src.sorting;
 
 public class SelectionSort {
 

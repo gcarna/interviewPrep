@@ -1,7 +1,7 @@
 package test;
 
 
-import src.sortingproblems.BubbleSort;
+import src.sorting.BubbleSort;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
