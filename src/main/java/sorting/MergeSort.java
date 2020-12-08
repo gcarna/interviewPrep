@@ -40,7 +40,9 @@ public class MergeSort {
             tmp[newIndex++] = array[j++];
         }
 
-        System.arraycopy(tmp, 0, array, start, newIndex);
-
+        i = 0;
+        while(i < newIndex){
+            array[start++] = tmp[i++];
+        }
     }
 }
