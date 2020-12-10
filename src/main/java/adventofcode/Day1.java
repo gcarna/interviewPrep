@@ -6,26 +6,10 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashSet;
 
+import static main.java.adventofcode.Utils.fromFileToArrayOfInt;
+
 public class Day1 {
     static int SUM = 2020;
-
-    private static ArrayList<Integer> fromFileToArray(String filename){
-        BufferedReader reader;
-        ArrayList<Integer> arrayList = new ArrayList<>();
-
-        try {
-            reader = new BufferedReader(new FileReader(filename));
-            String line = reader.readLine();
-            while (line != null) {
-                arrayList.add(Integer.parseInt(line));
-                line = reader.readLine();
-            }
-            reader.close();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-        return arrayList;
-    }
 
     private static int partOne(ArrayList<Integer> arr){
         HashSet<Integer> hashSet = new HashSet<>(arr.size());
@@ -61,7 +45,7 @@ public class Day1 {
     }
 
     public static void main(String[] args) {
-        ArrayList<Integer> arr = fromFileToArray("input.txt");
+        ArrayList<Integer> arr = fromFileToArrayOfInt("input.txt");
         System.out.println(partTwo(arr));
         System.out.println(partOne(arr));
 
